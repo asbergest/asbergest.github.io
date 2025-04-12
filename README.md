@@ -40,4 +40,4 @@ So
 - [Netflix](https://www.netflix.com/) - Horrible price, no more sharing,  
    need VPN to access the majority.  
    At least it does what I pay it to do, for the most part.  
-  **Recommended Watches** : How to lose a guy in 10 days, Rebel Moon, Interstellar 
+  **Recommended Watches** : How to lose a guy in 10 days, Logan Lucky, Interstellar 
