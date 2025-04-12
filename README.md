@@ -5,7 +5,7 @@ Alicia Zheng: azheng6@my.waketech.edu
 2.This is repository 1 and will hold assignments, etc...  
 
 # About Me  
-"I'm Alicia.  
+I'm Alicia.  
 This is my very first Wake Tech course.   
 I am not particularly interested in coding; in fact, I loathe it.   
 However, I believe having such skills will be very convenient in my future.  
